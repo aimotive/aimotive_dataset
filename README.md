@@ -6,6 +6,8 @@ You can read the paper about the dataset [here](https://arxiv.org/abs/2211.09445
 ### Download
 The dataset is made freely available for non-commercial research purposes only. The full dataset (~85 GB) can be downloaded by filling this [form](https://forms.gle/rHW75TSEQJQhQ1Bm6).
 
+[Kaggle](https://www.kaggle.com/datasets/tamasmatuszka/aimotive-multimodal-dataset) provides an alternative option for using the dataset.
+
 ### Dataset loader and renderer
 A dataset renderer and a PyTorch data loader example can be found in this [repository](https://github.com/aimotive/aimotive-dataset-loader).
 
