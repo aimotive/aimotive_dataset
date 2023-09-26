@@ -14,6 +14,11 @@ A dataset renderer and a PyTorch data loader example can be found in this [repos
 ### Multimodal model training repository
 Our training repository built on the top of [BEVDepth](https://github.com/Megvii-BaseDetection/BEVDepth) can be found [here](https://github.com/aimotive/mm_training).
 
+### Updates
+- [Sep 25, 2023] We updated the [preprint](https://arxiv.org/abs/2211.09445) with additional experiments and supplementary material (including a dataset documentation using 'Datasheets for datasets').
+- [Mar 17, 2023] The paper on the dataset has been accepted to [ICLR 2023 Workshop Scene Representations for Autonomous Driving](https://opendrivelab.com/sr4ad/iclr23).
+- [Dec 16, 2022] aiMotive Multimodal Dataset is available on Kaggle.
+
 ## Cite our work
 If you use this code or aiMotive Multimodal Dataset in your research, please cite our [work](https://arxiv.org/abs/2211.09445) by using the following BibTeX entries:
 
